@@ -11,7 +11,6 @@ And the link to my GitHub profile: [Janne Airaksinen on GitHub](https://github.c
 Weather twin is a silly little app that asks the user for a location input, then finds another location somewhere on the globe that has a similar weather than the user's location. The back-end has been written in Java with Spring Boot, and front-end has been written in JavaScript and React.
 
 Deployed: [weathertwin live is here](https://devaajanne.github.io/weathertwin-client/)<br>
-
 Back-end: [weathertwin-server](https://github.com/devaajanne/weathertwin-server)<br>
 Front-end: [weathertwin-client](https://github.com/devaajanne/weathertwin-client)
 
@@ -37,6 +36,7 @@ Front-end: [ticketguru](https://github.com/Bminor87/ticketguru)
 ### Personal trainer
 Personal trainer is the final project for my [Front End Programming](https://opinto-opas.haaga-helia.fi/course_unit/SOF004AS3AE) course at Haaga-Helia. It features a front-end for a personal trainer. Features include client and training management, calendar view and statistics. The project includes only the front-end (as back-end was provided) and it is written in JavaScript and React. REST API is used to connect the front-end to the back-end.
 
+Deployed: [personal trainer is live here](https://devaajanne.github.io/personal-trainer-client/)<br>
 Front-end: [personal-trainer-client](https://github.com/devaajanne/personal-trainer-client)
 
 ### Runfinder
