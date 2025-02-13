@@ -10,6 +10,8 @@ And the link to my GitHub profile: [Janne Airaksinen on GitHub](https://github.c
 ### Weather Twin
 Weather twin is a silly little app that asks the user for a location input, then finds another location somewhere on the globe that has a similar weather than the user's location. The back-end has been written in Java with Spring Boot, and front-end has been written in JavaScript and React.
 
+Deployed: [weathertwin live is here](https://devaajanne.github.io/weathertwin-client/)<br>
+
 Back-end: [weathertwin-server](https://github.com/devaajanne/weathertwin-server)<br>
 Front-end: [weathertwin-client](https://github.com/devaajanne/weathertwin-client)
 
