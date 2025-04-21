@@ -41,6 +41,7 @@ This project is done in a group of four students. Each of us students have a spe
 [![TypeScript][typescript-logo]][typescript-url]
 [![React Native][react-native-logo]][react-native-url]
 [![PostgreSQL][postgres-logo]][postgres-url]
+[![GitHub Actions][github-actions-logo]][github-actions-url]
 [![Docker][docker-logo]][docker-url]
 [![Expo Go][expo-logo]][expo-url]
 [![Bruno][bruno-logo]][bruno-url]
@@ -139,3 +140,5 @@ Runfinder is the final project for my [Back End Programming](https://opinto-opas
 [vs-code-url]: https://code.visualstudio.com/
 [intellij-idea-logo]: https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge
 [intellij-idea-url]: https://www.jetbrains.com/idea/
+[github-actions-logo]: https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white
+[github-actions-url]: https://github.com/features/actions
