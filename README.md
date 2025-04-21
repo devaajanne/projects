@@ -25,6 +25,8 @@ Weather Twin is a silly little app that asks the user for a location input, then
 #### Front-end: [weathertwin-client](https://github.com/devaajanne/weathertwin-client)
 <p align="right">(<a href="#readme-alku">Back to top</a>)</p>
 
+---
+
 ## Study-related projects
 
 ### Kämppis
