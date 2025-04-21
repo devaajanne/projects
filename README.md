@@ -1,3 +1,4 @@
+<a id="page-top"></a>
 # My projects
 This repository is a collection of my personal and study-related software projects, done both by myself and in a team.
 
@@ -22,7 +23,7 @@ Weather Twin is a silly little app that asks the user for a location input, then
 #### Deployed: [weathertwin live is here](https://devaajanne.github.io/weathertwin-client/)
 #### Back-end: [weathertwin-server](https://github.com/devaajanne/weathertwin-server)
 #### Front-end: [weathertwin-client](https://github.com/devaajanne/weathertwin-client)
-<p align="right">(<a href="#top">Back to top</a>)</p>
+<p align="right">(<a href="#page-top">Back to top</a>)</p>
 
 ---
 
@@ -50,7 +51,7 @@ This project is done in a group of four students. Each of us students have a spe
 #### Project page on GitHub: [kamppis-project](https://github.com/HH-Nat20)
 #### Back-end: [kamppis-server](https://github.com/HH-Nat20/kamppis-server)
 #### Mobile app: [kamppis-app](https://github.com/HH-Nat20/kamppis-app)
-<p align="right">(<a href="#top">Back to top</a>)</p>
+<p align="right">(<a href="#page-top">Back to top</a>)</p>
 
 ---
 
@@ -71,7 +72,7 @@ This project was done in a group of five students. The project also features RES
 
 #### Back-end: [nat20-ticketguru](https://github.com/marttyyriroskis/nat20-ticketguru)
 #### Front-end: [ticketguru](https://github.com/Bminor87/ticketguru)
-<p align="right">(<a href="#top">Back to top</a>)</p>
+<p align="right">(<a href="#page-top">Back to top</a>)</p>
 
 ---
 
@@ -84,7 +85,7 @@ Personal trainer is the final project for my [Front End Programming](https://opi
 
 #### Deployed: [personal trainer is live here](https://devaajanne.github.io/personal-trainer-client/)
 #### Front-end: [personal-trainer-client](https://github.com/devaajanne/personal-trainer-client)
-<p align="right">(<a href="#top">Back to top</a>)</p>
+<p align="right">(<a href="#page-top">Back to top</a>)</p>
 
 ---
 
@@ -99,7 +100,7 @@ Runfinder is the final project for my [Back End Programming](https://opinto-opas
 [![PostgreSQL][postgres-logo]][postgres-url]
 
 #### Back-end: [runfinder-app](https://github.com/devaajanne/runfinder-app)
-<p align="right">(<a href="#top">Back to top</a>)</p>
+<p align="right">(<a href="#page-top">Back to top</a>)</p>
 
 ---
 
