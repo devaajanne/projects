@@ -27,6 +27,20 @@ Weather Twin is a silly little app that asks the user for a location input, then
 
 ---
 
+### Battle Simulator
+Battle Simulator is a game which simulates battles between two opponents. The mechanics are inspired by Dungeons & Dragons. The simulator is run on the console with user inputs. This was one of my first personal attempts at coding, programmed right after my Java courses at Haaga-Helia.
+
+#### Technologies
+[![Java][java-logo]][java-url]
+[![Spring Boot][spring-logo]][spring-url]
+[![Gradle][gradle-logo]][gradle-url]
+[![Visual Studio Code][vs-code-logo]][vs-code-url]
+
+#### Repository: [battlesimulator-java](https://github.com/devaajanne/battlesimulator-java)
+<p align="right">(<a href="#page-top">Back to top</a>)</p>
+
+---
+
 ## Study-related projects
 
 ### Kämppis
