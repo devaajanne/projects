@@ -20,7 +20,7 @@ Weather Twin is a silly little app that asks the user for a location input, then
 [![Visual Studio Code][vs-code-logo]][vs-code-url]
 [![Heroku][heroku-logo]][heroku-url]
 
-#### Deployed: [weathertwin live is here](https://devaajanne.github.io/weathertwin-client/)
+#### Deployed: [Weather Twin is LIVE here](https://devaajanne.github.io/weathertwin-client/)
 #### Back-end: [weathertwin-server](https://github.com/devaajanne/weathertwin-server)
 #### Front-end: [weathertwin-client](https://github.com/devaajanne/weathertwin-client)
 <p align="right">(<a href="#page-top">Back to top</a>)</p>
